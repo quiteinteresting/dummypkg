@@ -1,0 +1,6 @@
+{
+    "name": "quiteinteresting/dummypkg",
+    "description": "Package to reserve the quiteinteresting/ vendor name on packagist for future use",
+    "type": "project",
+    "license": "proprietary"
+}
